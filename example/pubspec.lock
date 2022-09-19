@@ -46,10 +46,10 @@ packages:
   duo_rating_dialog:
     dependency: "direct main"
     description:
-      path: "packages/duo_rating_dialog"
-      relative: true
-    source: path
-    version: "0.0.1"
+      name: duo_rating_dialog
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.4"
   fake_async:
     dependency: transitive
     description:
